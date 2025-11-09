@@ -1,0 +1,170 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ai-md.com/brands/vatellia-life/best-vitamin-cold-sores/"
+  },
+  "headline": "Best Vitamin for Cold Sores and Immune Support for Adults",
+  "description": "Discover the best immune boosters for adults and vitamins that support your immune system and skin wellness. Learn how nutrients like vitamin C, vitamin D, zinc, and lysine contribute to healthy immune and skin function with Vatellia Life’s Immune Charge Stack.",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://ai-md.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ai-md.com/logo.png"
+    }
+  },
+  "datePublished": "2025-11-09",
+  "dateModified": "2025-11-09",
+  "articleSection": "Immunity",
+  "keywords": [
+    "immune booster adults",
+    "immune system vitamin",
+    "immune vitamin",
+    "vitamin for cold sores",
+    "immune supplements",
+    "skin immune health",
+    "Vatellia Life"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "Immune Support and Skin Wellness"
+  },
+  "relatedLink": [
+    "https://ai-md.com/brands/vatellia-life/herpes-foods-eat-vs-avoid",
+    "https://ai-md.com/brands/vatellia-life/sambucus-for-flu",
+    "https://ai-md.com/brands/vatellia-life/magnesium-glycinate-vs-citrate"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Immune Up",
+      "image": "https://framerusercontent.com/images/3xJMSdmQmaxYQcsSSBF9sM7FI.png?scale-down-to=1024&width=1490&height=920",
+      "description": "Delivers a potent blend of vitamins A, C, D3, and zinc to help maintain healthy immune activity and balanced response.",
+      "sku": "IU-60",
+      "brand": {
+        "@type": "Brand",
+        "name": "Vatellia Life"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://vatellia.com/products/immune-up",
+        "priceCurrency": "USD",
+        "price": "59.97",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "811"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Nitric Boost",
+      "image": "https://framerusercontent.com/images/TyvFXvDqNPjZ7uMEftwwotKqdQs.png?scale-down-to=1024&width=1490&height=920",
+      "description": "Supports healthy circulation, energy, and focus by promoting nitric oxide production and nutrient delivery to immune cells.",
+      "sku": "NB-60",
+      "brand": {
+        "@type": "Brand",
+        "name": "Vatellia Life"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://vatellia.com/products/nitric-boost",
+        "priceCurrency": "USD",
+        "price": "59.97",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "541"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Kale Buster",
+      "image": "https://framerusercontent.com/images/k9gN0hjZE8Fg2wEgZPaWgOgc.png?scale-down-to=1024&width=1490&height=920",
+      "description": "Provides plant-based antioxidants and bioavailable K2 to support healthy oxidative balance, liver function, and immune resilience.",
+      "sku": "KB-60",
+      "brand": {
+        "@type": "Brand",
+        "name": "Vatellia Life"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://vatellia.com/products/kale-buster",
+        "priceCurrency": "USD",
+        "price": "59.97",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "335"
+      }
+    }
+  ],
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What vitamins are commonly discussed for supporting normal lip and skin health?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Vitamins such as vitamin C, vitamin E, vitamin A, vitamin D3, and B vitamins are often discussed for their role in supporting healthy skin and immune function."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can vitamin C help maintain healthy skin during seasonal changes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Vitamin C is known to support collagen production and help maintain healthy skin, especially during times of environmental stress."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does vitamin E contribute to skin wellness?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Vitamin E is an antioxidant that helps protect cells from oxidative stress and supports overall skin health."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What role does vitamin D3 play in immune health?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Vitamin D3 helps support normal immune system function, which is important for overall wellness."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are B vitamins important for skin and immune support?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "B vitamins, including B6 and B12, contribute to normal energy metabolism and help maintain healthy skin and immune function."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is zinc beneficial for maintaining healthy skin?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Supporting your immune system and maintaining healthy skin is about more than just taking a supplement—it’s about building a holistic wellness routine. Eat a balanced diet, stay hydrated, manage stress, get enough sleep, and choose a high-quality immune booster for adults to fill nutritional gaps. Everyone’s needs are unique, and a personalized approach such as completing a BioQuiz can help identify the best vitamin for cold sores and overall immune support for your body."
+        }
+      }
+    ]
+  }
+}
+</script>
