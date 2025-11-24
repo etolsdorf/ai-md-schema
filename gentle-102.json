@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearables-to-enhance-your-yoga-poses-for-depression-relief-yoga-poses-depression"
+  },
+  "headline": "Wearables to Enhance Your Yoga Poses for Depression Relief",
+  "description": "Explore our collection of wearables designed to enhance your practice of yoga poses depression. Discover how these tools can support your mental well-being.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:35:36.128Z",
+  "dateModified": "2025-11-24T04:35:36.128Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "yoga poses depression"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best yoga poses for managing depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yoga poses like Child's Pose, Downward Dog, and Warrior II can help manage depression by promoting relaxation and mindfulness. These poses encourage a gentle connection between body and mind, fostering emotional balance and resilience. Remember, it's about finding what feels right for you."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can yoga help alleviate symptoms of depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yoga can be a powerful tool for alleviating symptoms of depression by promoting mindfulness, reducing stress, and enhancing emotional resilience. Its combination of movement, breathwork, and meditation encourages a deeper connection to oneself, fostering a sense of empowerment and well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there specific breathing techniques in yoga that support mental health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, specific breathing techniques in yoga, such as pranayama, can enhance mental health by promoting relaxation and reducing stress. These practices encourage mindfulness and emotional balance, fostering a deeper connection to oneself and supporting overall well-being. Embracing these techniques can empower your mental health journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can practicing yoga regularly improve mood and reduce anxiety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, practicing yoga regularly can enhance mood and reduce anxiety. Research suggests that yoga promotes relaxation and mindfulness, fostering emotional balance. By integrating breath control and movement, it encourages a sense of well-being, empowering individuals to manage stress more effectively."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the connection between yoga and emotional well-being?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yoga fosters emotional well-being by promoting mindfulness, reducing stress, and enhancing self-awareness. Its combination of physical movement and breathwork can help release tension and cultivate a sense of inner peace, empowering individuals to navigate their emotions with greater resilience and clarity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do different yoga styles impact depression relief?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Different yoga styles can offer unique benefits for depression relief. Practices like Hatha and Vinyasa focus on movement and breath, promoting mindfulness and reducing stress. Research suggests that regular yoga can enhance mood and emotional well-being, fostering a supportive environment for healing."
+      }
+    }
+  ]
+}
