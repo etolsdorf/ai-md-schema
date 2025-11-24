@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearables-to-enhance-your-yoga-poses-for-well-being-yoga-poses-anxiety-and-depression"
+  },
+  "headline": "Wearables to Enhance Your Yoga Poses for Well-Being",
+  "description": "Explore our wearable collection designed to support your journey with yoga poses anxiety and depression. Discover tools that enhance your practice and well-being.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:37:07.625Z",
+  "dateModified": "2025-11-24T04:37:07.625Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "yoga poses anxiety and depression"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best yoga poses for reducing anxiety and depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yoga poses like Child’s Pose, Downward Dog, and Legs-Up-the-Wall can be particularly soothing for anxiety and depression. These poses promote relaxation and mindfulness, helping to ground your thoughts and emotions. Incorporating breathwork enhances the calming effects, fostering a sense of peace and empowerment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can yoga help improve mental health and alleviate stress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yoga can enhance mental health by promoting relaxation and mindfulness, which can reduce stress levels. The practice encourages self-awareness and emotional regulation, fostering a sense of empowerment. Integrating yoga into your routine can support overall well-being and resilience in facing daily challenges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there specific breathing techniques in yoga that aid in managing anxiety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, specific breathing techniques in yoga, such as diaphragmatic breathing and alternate nostril breathing, can help manage anxiety. These practices promote relaxation and mindfulness, empowering individuals to cultivate a sense of calm and control over their emotional well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of mindfulness in yoga for anxiety and depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mindfulness in yoga fosters present-moment awareness, helping individuals manage anxiety and depression. By encouraging a gentle focus on breath and body sensations, it promotes relaxation and emotional regulation, empowering practitioners to cultivate resilience and find peace amidst life's challenges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can practicing yoga regularly lead to long-term benefits for mental well-being?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, practicing yoga regularly can foster long-term mental well-being. It promotes relaxation, reduces stress, and enhances mindfulness, contributing to improved emotional resilience. Integrating yoga into your routine can empower you to navigate life's challenges with greater ease and strength."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What beginner yoga poses are most effective for calming the mind?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Beginner yoga poses like Child’s Pose, Cat-Cow, and Legs-Up-the-Wall can effectively calm the mind. These gentle stretches promote relaxation and mindfulness, helping to reduce stress and enhance mental clarity. Embracing these poses can be a powerful step toward emotional well-being."
+      }
+    }
+  ]
+}
