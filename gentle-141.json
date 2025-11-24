@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearable-tools-for-exploring-depression-and-neurodiversity-does-having-depression-make-you-neurodivergent"
+  },
+  "headline": "Wearable Tools for Exploring Depression and Neurodiversity",
+  "description": "Explore our wearable collection to understand how mental health intersects with neurodiversity. Learn if \"does having depression make you neurodivergent.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:37:33.845Z",
+  "dateModified": "2025-11-24T04:37:33.845Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "does having depression make you neurodivergent"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can depression be considered a form of neurodivergence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depression isn't classified as neurodivergence, which typically refers to variations in brain function like autism or ADHD. However, it can coexist with neurodivergent conditions, impacting how individuals experience and navigate their mental health. Understanding these nuances fosters empathy and supports holistic care."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the relationship between depression and neurodiversity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Depression can often coexist with neurodiversity, impacting individuals differently based on their unique neurological makeup. Embracing neurodiversity fosters understanding and empathy, empowering individuals to seek tailored support that honors their distinct experiences and strengths in navigating mental health challenges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does neurodivergence affect individuals with depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Neurodivergence can influence how individuals experience and express depression, often leading to unique challenges in emotional regulation and social interactions. Understanding these differences fosters empathy and tailored support, empowering individuals to navigate their mental health journeys with strength and resilience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are people with depression more likely to be neurodivergent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, individuals with depression can often be neurodivergent, as conditions like ADHD and autism frequently co-occur with mood disorders. Understanding this connection can empower people to seek tailored support, fostering a more compassionate approach to mental health care and personal well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the characteristics of neurodivergent individuals with depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Neurodivergent individuals with depression may experience unique challenges, such as heightened sensitivity to stimuli, difficulties in social interactions, and varying emotional responses. Understanding these traits fosters empathy and supports tailored approaches to mental health care, empowering individuals on their healing journeys."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to be neurodivergent without having depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it's entirely possible to be neurodivergent without experiencing depression. Neurodivergence encompasses a range of cognitive variations, and while some may face mental health challenges, others thrive without them. Embracing your unique neurodivergent traits can lead to empowerment and personal growth."
+      }
+    }
+  ]
+}
