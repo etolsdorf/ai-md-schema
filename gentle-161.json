@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/explore-the-benefits-of-vagus-nerve-stimulation-wearables-what-is-vagus-nerve-stimulation-used-for"
+  },
+  "headline": "Explore the Benefits of Vagus Nerve Stimulation Wearables",
+  "description": "Discover what is vagus nerve stimulation used for and explore various wearable devices designed to enhance your well-being through nerve stimulation technology.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:38:16.030Z",
+  "dateModified": "2025-11-24T04:38:16.031Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "what is vagus nerve stimulation used for"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does vagus nerve stimulation affect mental health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vagus nerve stimulation can positively influence mental health by promoting relaxation and reducing anxiety. This innovative approach may enhance emotional regulation and resilience, empowering individuals to navigate their mental well-being more effectively. It's a gentle yet impactful method to support overall mental health."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What conditions can benefit from vagus nerve stimulation therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vagus nerve stimulation therapy can benefit various conditions, including depression, anxiety, and epilepsy. By promoting relaxation and emotional balance, it supports overall mental health, empowering individuals to reclaim their well-being. Always consult a healthcare professional to explore personalized treatment options."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is vagus nerve stimulation safe for everyone?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vagus nerve stimulation can be beneficial for many, but safety varies by individual. It's essential to consult with a healthcare professional to assess personal health conditions and potential risks. Empowering yourself with knowledge and guidance is key to making informed decisions about your care."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the potential side effects of vagus nerve stimulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vagus nerve stimulation can lead to side effects like throat discomfort, voice changes, or tingling sensations. While these effects are generally mild, it's important to discuss any concerns with a healthcare provider to ensure a supportive approach to your health journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is vagus nerve stimulation performed in a clinical setting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vagus nerve stimulation in a clinical setting typically involves implanting a small device under the skin that sends electrical impulses to the vagus nerve. This procedure aims to help manage conditions like depression and epilepsy, promoting overall well-being through enhanced neural communication."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can vagus nerve stimulation help with chronic pain management?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, vagus nerve stimulation may help manage chronic pain by influencing the brain's pain pathways and promoting relaxation. This innovative approach is gaining attention for its potential benefits, offering a gentle, non-invasive option for those seeking relief and improved well-being."
+      }
+    }
+  ]
+}
