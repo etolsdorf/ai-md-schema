@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearables-to-enhance-your-antidepressant-diet-journey-antidepressant-food-scale"
+  },
+  "headline": "Wearables to Enhance Your Antidepressant Diet Journey",
+  "description": "Discover how an antidepressant food scale can help you track and optimize your diet for better mental health. Compare features and find the right fit for you.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:37:47.140Z",
+  "dateModified": "2025-11-24T04:37:47.140Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "antidepressant food scale"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the antidepressant food scale and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Antidepressant Food Scale ranks foods based on their potential to boost mood and support mental health. It emphasizes nutrient-rich options, particularly those high in zinc, which is well-researched for its immune and mental health benefits. Incorporating these foods can promote overall well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can the antidepressant food scale influence mental health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The antidepressant food scale highlights foods that may support mental well-being, emphasizing nutrients like zinc, which is well-researched for immune health. Incorporating a variety of nutrient-rich foods can empower individuals to enhance their mental resilience and overall health."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What foods are considered beneficial on the antidepressant food scale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Foods rich in nutrients like omega-3 fatty acids, antioxidants, and zinc can support mental well-being. Incorporating whole grains, fruits, vegetables, and lean proteins may enhance mood and overall health, promoting a balanced approach to mental wellness without relying solely on medications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the antidepressant food scale compare to other dietary guidelines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The antidepressant food scale emphasizes nutrient-dense foods that support mental well-being, while traditional dietary guidelines focus on overall health. Both approaches promote balanced eating, but the scale specifically highlights foods that may enhance mood and emotional resilience, fostering a more holistic view of nutrition."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can the antidepressant food scale help with mood improvement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The antidepressant food scale can provide insights into how certain foods may influence mood. While individual experiences vary, incorporating nutrient-rich foods—especially those high in zinc—can support overall mental well-being. It’s about finding what works best for you on your journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What research supports the concepts behind the antidepressant food scale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Research highlights the importance of nutrients like zinc in supporting mental health. While the antidepressant food scale emphasizes a holistic approach to diet, it’s vital to consider how specific nutrients can positively influence mood and overall well-being."
+      }
+    }
+  ]
+}
