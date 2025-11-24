@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearables-for-effective-non-drug-treatments-of-anxiety-non-pharmacological-treatment-for-depression-and-anxiety"
+  },
+  "headline": "Wearables for Effective Non-Drug Treatments of Anxiety",
+  "description": "Explore our collection of wearables designed as a non pharmacological treatment for depression and anxiety, helping you manage symptoms and enhance well-being.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:37:52.119Z",
+  "dateModified": "2025-11-24T04:37:52.119Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "non pharmacological treatment for depression and anxiety"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are some effective lifestyle changes for managing depression and anxiety without medication?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Incorporating regular exercise, prioritizing sleep, and fostering social connections can significantly support mental well-being. Additionally, ensuring adequate zinc intake may enhance immune function, which is linked to mood regulation. Embracing these changes can empower you on your journey to better mental health."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can mindfulness practices help with depression and anxiety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mindfulness practices can significantly alleviate symptoms of depression and anxiety by promoting present-moment awareness and reducing negative thought patterns. Engaging in mindfulness fosters emotional resilience, empowering individuals to navigate their feelings with greater clarity and compassion, ultimately enhancing overall mental well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does exercise play in non pharmacological treatment for anxiety and depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exercise plays a significant role in non-pharmacological treatment for anxiety and depression by boosting mood, reducing stress, and enhancing overall well-being. Regular physical activity can increase endorphins and improve sleep, fostering resilience and emotional strength in a gentle, empowering way."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there specific dietary changes that can support mental health in depression and anxiety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While specific dietary changes can vary for each individual, incorporating nutrients like zinc has shown promise in supporting mental health. Focusing on a balanced diet rich in whole foods can empower your overall well-being, complementing other proactive mental health strategies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of therapy are considered non pharmacological treatments for anxiety and depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non-pharmacological treatments for anxiety and depression include various therapies like cognitive-behavioral therapy (CBT), mindfulness practices, and art therapy. These approaches empower individuals to explore their emotions and develop coping strategies, fostering healing without relying solely on medication."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can social support networks aid in the treatment of depression and anxiety without medication?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Social support networks play a vital role in managing depression and anxiety by providing emotional comfort, understanding, and encouragement. Engaging with empathetic friends or family fosters connection, reduces feelings of isolation, and can enhance resilience, empowering individuals on their mental health journey."
+      }
+    }
+  ]
+}
