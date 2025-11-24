@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/discover-wearables-for-home-electric-shock-therapy-electric-shock-therapy-at-home"
+  },
+  "headline": "Discover Wearables for Home Electric Shock Therapy",
+  "description": "Explore our collection of wearables designed for electric shock therapy at home. Discover options to enhance recovery and relieve pain effectively and safely.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:34:34.009Z",
+  "dateModified": "2025-11-24T04:34:34.009Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "electric shock therapy at home"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the risks of performing electric shock therapy at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Performing electric shock therapy at home poses significant risks, including severe injury or complications from improper use. Professional supervision ensures safety and effectiveness. It's crucial to seek guidance from qualified mental health professionals for any therapeutic interventions. Your well-being deserves expert care."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does electric shock therapy work for mental health conditions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electric shock therapy, or electroconvulsive therapy (ECT), involves delivering controlled electrical currents to the brain, inducing brief seizures. This process can help alleviate severe depression and other mental health conditions by promoting neurochemical changes, ultimately fostering improved mood and functioning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What equipment is needed for electric shock therapy at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electric shock therapy, or electroconvulsive therapy (ECT), is a medical procedure that should only be performed in a clinical setting by trained professionals. At home, it's crucial to prioritize safety and seek guidance from a healthcare provider for appropriate mental health treatments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can electric shock therapy be safely administered without professional supervision?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electric shock therapy, or electroconvulsive therapy (ECT), should always be administered under professional supervision to ensure safety and effectiveness. Trained healthcare providers can monitor and manage potential side effects, making the experience safer and more beneficial for individuals seeking treatment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs that electric shock therapy is effective?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of effective electric shock therapy, or ECT, often include noticeable improvements in mood, reduced symptoms of depression or anxiety, and enhanced overall functioning. Patients may also experience increased energy and motivation, reflecting a positive shift in their mental health journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there alternative therapies to electric shock therapy that can be done at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are several alternative therapies to electric shock therapy that can be practiced at home. Mindfulness, meditation, and gentle exercise can promote mental well-being. Additionally, incorporating zinc-rich foods may support immune health, which is linked to overall mood and resilience."
+      }
+    }
+  ]
+}
