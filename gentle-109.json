@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/explore-electric-shock-therapy-experience-wearables-today-what-does-electric-shock-therapy-feel-like"
+  },
+  "headline": "Explore Electric Shock Therapy Experience Wearables Today",
+  "description": "Discover what does electric shock therapy feel like and explore our collection of wearables designed to enhance your experience and comfort during treatment.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:36:30.705Z",
+  "dateModified": "2025-11-24T04:36:30.705Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "what does electric shock therapy feel like"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does electric shock therapy affect the body during treatment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electric shock therapy, or electroconvulsive therapy (ECT), can stimulate brain activity and promote neurochemical changes, potentially alleviating severe depression. While some may experience temporary side effects like confusion or muscle soreness, many find significant relief and improved mental health following treatment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What sensations do patients typically experience during electric shock therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients undergoing electric shock therapy often report sensations like muscle contractions and brief confusion. While the experience can vary, many find it manageable and temporary. It's essential to discuss any concerns with your healthcare provider to ensure a supportive and informed approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any common side effects of electric shock therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electric shock therapy, or electroconvulsive therapy (ECT), can lead to temporary side effects like confusion, memory loss, and muscle soreness. These effects often diminish over time. It's essential to discuss any concerns with a healthcare provider to ensure a supportive and informed experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the emotional experience like during electric shock therapy sessions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electric shock therapy, or electroconvulsive therapy (ECT), can evoke a range of emotions. Many individuals report feelings of relief and hope post-session, while some may experience anxiety beforehand. It's essential to approach each session with support and understanding, recognizing the journey toward healing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do patients describe their feelings after electric shock therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Patients often describe their feelings after electric shock therapy as a mix of relief and emotional clarity. Many report improved mood and reduced symptoms of depression, highlighting a sense of renewed hope. Individual experiences vary, but the overall sentiment leans towards positive transformation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the differences in sensation between electric shock therapy and other treatments?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Electric shock therapy, or ECT, often produces a brief, intense sensation that can feel jarring but is typically well-managed with anesthesia. In contrast, other treatments like medication or therapy offer gradual changes in sensation and mood, focusing on long-term healing rather than immediate impact."
+      }
+    }
+  ]
+}
