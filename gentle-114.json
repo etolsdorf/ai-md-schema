@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearable-devices-for-managing-adhd-and-depression-symptoms-untreated-adhd-and-depression"
+  },
+  "headline": "Wearable Devices for Managing ADHD and Depression Symptoms",
+  "description": "Explore our collection of wearables designed to help manage untreated ADHD and depression. Discover how these devices can support your mental well-being.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:36:43.362Z",
+  "dateModified": "2025-11-24T04:36:43.362Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "untreated adhd and depression"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the long-term effects of untreated ADHD and depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated ADHD and depression can lead to significant challenges, including impaired relationships, decreased academic or work performance, and heightened risk of substance use. Addressing these conditions proactively fosters resilience and improves overall well-being, empowering individuals to thrive in their daily lives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can untreated ADHD contribute to feelings of depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated ADHD can lead to chronic frustration, low self-esteem, and feelings of inadequacy, which may contribute to depression. The challenges of managing symptoms without support can create a cycle of emotional distress, underscoring the importance of proactive care and understanding."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs that ADHD and depression are not being treated effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs that ADHD and depression may not be effectively treated include persistent mood swings, difficulty concentrating, and ongoing feelings of hopelessness. If symptoms worsen or new challenges arise, it’s important to reassess your approach and seek support tailored to your unique needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can untreated ADHD lead to other mental health issues besides depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, untreated ADHD can contribute to various mental health challenges, including anxiety, low self-esteem, and increased stress. Addressing ADHD proactively can empower individuals to manage symptoms effectively, fostering resilience and overall well-being. Seeking support is a vital step toward holistic mental health care."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes can help manage untreated ADHD and depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Incorporating regular physical activity, prioritizing sleep, and fostering social connections can positively impact ADHD and depression. Additionally, nutrients like zinc may support immune health, which is linked to overall well-being. Embracing these changes can empower your journey toward better mental health."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does untreated ADHD affect relationships and social interactions in those with depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Untreated ADHD can complicate relationships and social interactions, especially for those with depression. Challenges like impulsivity, forgetfulness, and difficulty focusing may lead to misunderstandings or feelings of frustration. This can strain connections, making open communication and emotional support even more crucial for healing."
+      }
+    }
+  ]
+}
