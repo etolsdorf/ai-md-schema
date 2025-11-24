@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearables-to-enhance-your-yoga-poses-for-anxiety-relief-yoga-asanas-for-anxiety-and-depression"
+  },
+  "headline": "Wearables to Enhance Your Yoga Poses for Anxiety Relief",
+  "description": "Explore our collection of wearables designed to enhance your practice of yoga asanas for anxiety and depression, promoting relaxation and mental well-being.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:37:09.796Z",
+  "dateModified": "2025-11-24T04:37:09.796Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "yoga asanas for anxiety and depression"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the best yoga asanas to relieve anxiety and depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yoga asanas like Child’s Pose, Downward Dog, and Warrior II can effectively alleviate anxiety and depression. These poses promote relaxation and mindfulness, helping to ground your thoughts and emotions. Incorporating breathwork enhances the benefits, fostering a sense of calm and empowerment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can yoga asanas improve mental health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yoga asanas can enhance mental health by promoting relaxation, reducing stress, and improving mood. The physical practice encourages mindfulness and body awareness, fostering a deeper connection to oneself. This holistic approach supports emotional resilience and overall well-being, empowering individuals on their mental health journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there specific breathing techniques to use with yoga for anxiety?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, specific breathing techniques like diaphragmatic breathing and box breathing can enhance yoga's calming effects for anxiety. These methods promote relaxation and mindfulness, helping you connect with your body and manage stress more effectively. Embrace these practices to empower your mental well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can beginners practice yoga asanas for anxiety and depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely, beginners can practice yoga asanas to help manage anxiety and depression. Gentle movements and mindful breathing can promote relaxation and emotional balance. It's a supportive way to connect with your body and mind, fostering a sense of empowerment and well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of mindfulness in yoga asanas for emotional well-being?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mindfulness in yoga asanas enhances emotional well-being by fostering present-moment awareness and self-acceptance. This practice encourages a deeper connection to your body and emotions, promoting relaxation and reducing stress, ultimately supporting a healthier mental state. Embracing mindfulness can empower your healing journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should you practice yoga asanas to manage anxiety and depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Practicing yoga asanas several times a week can be beneficial for managing anxiety and depression. Consistency is key, so find a routine that feels right for you. Listen to your body and embrace the journey toward emotional well-being with each session."
+      }
+    }
+  ]
+}
