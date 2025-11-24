@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearables-to-combat-feelings-from-social-media-stress-social-media-making-me-depressed"
+  },
+  "headline": "Wearables to Combat Feelings from Social Media Stress",
+  "description": "Explore our collection of wearables designed to help combat feelings of social media making me depressed. Discover tools to enhance your mental well-being today.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:29:03.234Z",
+  "dateModified": "2025-11-24T04:29:03.234Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "social media making me depressed"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does social media impact mental health?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Social media can significantly influence mental health, both positively and negatively. While it fosters connection and support, excessive use may lead to anxiety and depression. Balancing online interactions with real-life connections is essential for overall well-being. Prioritizing mental health is key."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can social media use lead to feelings of loneliness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, social media can contribute to feelings of loneliness. While it connects us, it may also foster comparison and isolation. Engaging mindfully and balancing online interactions with real-life connections can help mitigate these feelings and promote a healthier relationship with social media."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the signs that social media is affecting my mood?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs that social media may be affecting your mood include increased feelings of anxiety, sadness, or inadequacy after scrolling. You might notice a decline in your self-esteem or feel more isolated. Being aware of these shifts can empower you to take proactive steps for your mental well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why do I feel more anxious after using social media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Feeling more anxious after using social media is common. It can stem from comparison, negative interactions, or information overload. Engaging mindfully and setting boundaries can help create a healthier relationship with social media, fostering a more positive mental space."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I reduce negative feelings from social media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To reduce negative feelings from social media, consider setting boundaries around your usage, curating your feed to include positive content, and engaging in offline activities that uplift you. Remember, prioritizing your mental well-being is a powerful step toward empowerment and healing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the psychological effects of comparing myself to others on social media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Comparing yourself to others on social media can lead to feelings of inadequacy, anxiety, and low self-esteem. It often distorts reality, making it easy to overlook your own strengths and achievements. Focusing on personal growth and self-acceptance can foster a healthier mindset."
+      }
+    }
+  ]
+}
