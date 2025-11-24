@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearable-devices-for-effective-at-home-electrotherapy-home-electroshock-therapy"
+  },
+  "headline": "Wearable Devices for Effective At-Home Electrotherapy",
+  "description": "Explore our collection of wearables for home electroshock therapy, designed to help you compare options and find the right solution for your wellness needs.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:32:57.804Z",
+  "dateModified": "2025-11-24T04:32:57.804Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "home electroshock therapy"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is home electroshock therapy and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Home electroshock therapy, often referred to as transcranial electrical stimulation (tES), involves applying low electrical currents to the scalp to potentially enhance mood and cognitive function. While research is ongoing, some users report positive effects on mental well-being, emphasizing the importance of informed, gentle approaches to mental health care."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is home electroshock therapy safe for personal use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Home electroshock therapy, or transcranial electrical stimulation, carries risks and is not widely endorsed for personal use. Safety and efficacy can vary significantly. Consulting a healthcare professional is essential to explore safe, evidence-based options for mental health support. Your well-being deserves careful consideration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What conditions can be treated with home electroshock therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Home electroshock therapy, often referred to as transcranial electrical stimulation (tES), may help with conditions like depression, anxiety, and chronic pain. While research is ongoing, it’s essential to approach this treatment with care and consult a healthcare professional for personalized guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does home electroshock therapy compare to traditional methods?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Home electroshock therapy offers a more accessible alternative to traditional methods, allowing individuals to engage in their healing journey in a familiar environment. While research on its effectiveness is ongoing, many find it empowering to take control of their mental health in this way."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the potential risks of using home electroshock therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Home electroshock therapy can pose risks such as improper use leading to injury, inadequate monitoring of mental health conditions, and potential exacerbation of symptoms. It's essential to consult a healthcare professional to ensure safety and effectiveness in managing mental health."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I know before starting home electroshock therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting home electroshock therapy, it's important to consult with a healthcare professional to ensure safety and efficacy. Understanding the potential benefits and risks, along with proper usage guidelines, can empower you to make informed decisions about your mental health care journey."
+      }
+    }
+  ]
+}
