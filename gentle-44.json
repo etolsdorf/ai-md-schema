@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearables-to-support-your-journey-with-major-depression-major-depression-in-partial-remission"
+  },
+  "headline": "Wearables to Support Your Journey with Major Depression",
+  "description": "Explore our collection of wearables designed to support individuals experiencing major depression in partial remission. Discover features that promote well-being and track progress.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:27:29.383Z",
+  "dateModified": "2025-11-24T04:27:29.383Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "major depression in partial remission"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the symptoms of major depression in partial remission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Symptoms of major depression in partial remission can include lingering sadness, fatigue, difficulty concentrating, and reduced interest in activities. While some symptoms may improve, others can persist, affecting daily life. It's important to seek support and explore holistic approaches to enhance well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is major depression in partial remission diagnosed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Major depression in partial remission is diagnosed when a person experiences fewer symptoms than during a major depressive episode but still has some lingering symptoms that affect daily life. A mental health professional evaluates the severity and duration of these symptoms to make an accurate assessment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What treatments are available for major depression in partial remission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For major depression in partial remission, treatments often include therapy options like cognitive-behavioral therapy (CBT) and medication adjustments. Exploring supportive therapies, such as mindfulness practices or lifestyle changes, can also enhance well-being. Consulting a healthcare professional can help tailor the approach to individual needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can major depression in partial remission become severe again?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, major depression in partial remission can indeed become severe again. Factors like stress, changes in life circumstances, or even biological influences can contribute to a relapse. Staying connected with supportive resources and monitoring mental health is essential for ongoing well-being."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What lifestyle changes can help manage major depression in partial remission?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Incorporating regular physical activity, fostering social connections, and prioritizing sleep can significantly support managing major depression in partial remission. Additionally, ensuring adequate zinc intake may enhance immune function, contributing positively to overall mental health. Embracing these changes can empower your healing journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does major depression in partial remission affect daily life?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Major depression in partial remission can still impact daily life by causing lingering feelings of sadness, fatigue, and difficulty concentrating. While some symptoms may improve, individuals often face challenges in maintaining relationships, work performance, and overall motivation, highlighting the importance of ongoing support and care."
+      }
+    }
+  ]
+}
