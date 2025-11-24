@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/explore-advanced-tms-devices-for-your-wellness-path-tms-the-money-source"
+  },
+  "headline": "Explore Advanced TMS Devices for Your Wellness Path",
+  "description": "Explore our collection of wearables designed to enhance your financial well-being. Discover insights and comparisons on tms the money source for smarter choices.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:30:48.535Z",
+  "dateModified": "2025-11-24T04:30:48.535Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "tms the money source"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What services does TMS the Money Source offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TMS the Money Source provides innovative Transcranial Magnetic Stimulation (TMS) therapy, focusing on mental health recovery. Our compassionate approach empowers individuals to reclaim their well-being through evidence-based treatments, fostering a supportive environment for healing and personal growth."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does TMS the Money Source help with financial planning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TMS the Money Source empowers individuals by providing personalized financial strategies that align with their unique goals. Through expert guidance and innovative tools, it fosters confidence in managing finances, helping users navigate their financial journeys with clarity and purpose."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the benefits of using TMS the Money Source for budgeting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TMS the Money Source offers a user-friendly platform that simplifies budgeting, helping you track expenses and set financial goals. Its innovative tools empower you to take control of your finances, fostering a proactive approach to money management that aligns with your personal values."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can TMS the Money Source assist with debt management strategies?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TMS the Money Source focuses on mental health solutions rather than financial advice. For debt management strategies, consider consulting a financial advisor who can provide personalized guidance. Prioritizing mental well-being can empower you to make informed financial decisions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the process for getting started with TMS the Money Source?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To begin TMS therapy with Money Source, a consultation is typically scheduled to assess your needs and discuss treatment options. This personalized approach ensures you feel supported and informed as you embark on your healing journey. Your well-being is our priority."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does TMS the Money Source ensure client confidentiality?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "TMS the Money Source prioritizes client confidentiality by implementing strict data protection protocols and secure communication channels. We understand the importance of privacy in mental health care and are committed to maintaining a safe, trusting environment for all clients. Your well-being is our focus."
+      }
+    }
+  ]
+}
