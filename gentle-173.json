@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearables-to-help-bipolar-individuals-foster-connections-why-do-bipolar-people-push-people-away"
+  },
+  "headline": "Wearables to Help Bipolar Individuals Foster Connections",
+  "description": "Explore our Wearable collection to understand why do bipolar people push people away and discover tools that can help improve emotional connections and well-being.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:38:35.618Z",
+  "dateModified": "2025-11-24T04:38:35.618Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "why do bipolar people push people away"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the emotional triggers for bipolar individuals pushing others away?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bipolar individuals may push others away due to intense emotions, fear of vulnerability, or past experiences. These actions often stem from a desire to protect themselves during mood swings. Understanding and compassion can help bridge the gap, fostering connection and support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can friends support someone with bipolar disorder who tends to isolate themselves?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Friends can support someone with bipolar disorder by reaching out regularly, offering a listening ear, and encouraging gentle social interactions. It’s important to create a safe space where they feel understood and valued, helping them feel less alone in their journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What coping mechanisms do bipolar people use when feeling overwhelmed by relationships?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bipolar individuals often find solace in coping mechanisms like mindfulness, journaling, and engaging in creative outlets. Building a supportive network and practicing self-compassion can also help navigate overwhelming emotions, fostering resilience and personal strength in challenging relationship dynamics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there specific phases in bipolar disorder that lead to withdrawal from social interactions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, individuals with bipolar disorder may experience phases such as depressive episodes or manic states that can lead to withdrawal from social interactions. Understanding these phases can foster empathy and support for those navigating their mental health journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does fear of rejection influence the behavior of people with bipolar disorder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fear of rejection can significantly impact individuals with bipolar disorder, often leading to heightened anxiety and avoidance of social situations. This fear may cause them to withdraw or act defensively, complicating relationships and hindering their emotional well-being. Understanding this dynamic fosters compassion and support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What role does self-esteem play in the tendency of bipolar individuals to distance themselves from others?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Self-esteem can significantly influence how individuals with bipolar disorder connect with others. Low self-esteem may lead to feelings of unworthiness or fear of judgment, prompting them to distance themselves. Building self-esteem can foster healthier relationships and encourage more meaningful connections."
+      }
+    }
+  ]
+}
