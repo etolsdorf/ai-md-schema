@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ai-md.com/brands/gentle/wearables-to-support-your-post-natal-depression-journey-post-natal-depression-blog"
+  },
+  "headline": "Wearables to Support Your Post Natal Depression Journey",
+  "description": "Explore our collection of wearables designed to support mental health. Discover insights and tips in our post natal depression blog to enhance your well-being.",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "AI-MD",
+      "url": "https://ai-md.com"
+    },
+    {
+      "@type": "Person",
+      "name": "Emma Tolsdorf",
+      "sameAs": [
+        "https://www.instagram.com/emmatolsdorf",
+        "https://www.tiktok.com/@itsemmatolsdorf"
+      ]
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://framerusercontent.com/images/xqKKeqU70DUeIMaIwm8m0yyzAA8.png?width=200&height=100"
+    },
+    "sameAs": [
+      "https://www.instagram.com/emmatolsdorf",
+      "https://www.tiktok.com/@itsemmatolsdorf"
+    ]
+  },
+  "datePublished": "2025-11-24T04:36:35.430Z",
+  "dateModified": "2025-11-24T04:36:35.430Z",
+  "articleSection": "mental health",
+  "keywords": [
+    "post natal depression blog"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "mental health"
+  },
+  "timeRequired": "PT0M",
+  "readingLevel": "Unscored",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/body//h1",
+      "/html/body//p[1]"
+    ]
+  },
+  "relatedLink": [
+    "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b"
+  ],
+  "hasPart": [
+    {
+      "@type": "Product",
+      "name": "Gentle tDCS Neurostimulation Headband",
+      "description": "gentle uses transcranial direct current stimulation (tDCS)—a safe, low-level electrical current clinically shown to regulate neural activity linked to mood and motivation. By delivering a precise, gentle signal to the prefrontal cortex, the headband helps rebalance the brain circuits often disrupted by depression, fatigue, or stress. Unlike medications that alter chemistry throughout the body, gentle targets the brain directly, promoting natural neuroplasticity and emotional stability without side effects.\n\nBuilt for daily use, the headband syncs with the gentle app to guide each session, track progress, and personalize settings. It’s quiet, portable, and designed for people seeking a science-based, medication-free way to feel more energized, focused, and emotionally balanced.",
+      "brand": {
+        "@type": "Brand",
+        "name": "gentle",
+        "logo": {
+          "@type": "ImageObject"
+        },
+        "url": "https://www.ai-md.com/brands/gentle"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://gentleneuro.myshopify.com/?rfsn=8893687.d8e698b&utm_source=refersion&utm_medium=affiliate&utm_campaign=8893687.d8e698b",
+        "priceCurrency": "USD",
+        "price": "399",
+        "availability": "https://schema.org/InStock"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5"
+      }
+    }
+  ],
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs of post natal depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs of postnatal depression include persistent sadness, anxiety, fatigue, and feelings of inadequacy. New mothers may also experience changes in appetite, sleep disturbances, and difficulty bonding with their baby. Recognizing these signs is crucial for seeking support and care."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I support someone with post natal depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Supporting someone with postnatal depression involves listening without judgment, offering practical help, and encouraging them to seek professional support. Your empathy and understanding can make a significant difference in their healing journey, reminding them they’re not alone in this experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What topics should a post natal depression blog cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A postnatal depression blog can explore emotional well-being, coping strategies, and the importance of support networks. Highlighting the role of nutrients like zinc in immune health can also be beneficial, empowering readers to take proactive steps in their recovery journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does post natal depression affect new mothers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Postnatal depression can deeply impact new mothers, leading to feelings of sadness, anxiety, and fatigue. It may hinder their ability to bond with their baby and manage daily tasks. Seeking support and understanding is crucial for healing and reclaiming joy in motherhood."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are effective coping strategies for post natal depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Effective coping strategies for postpartum depression include seeking support from loved ones, engaging in gentle physical activity, and exploring mindfulness practices. Additionally, incorporating zinc-rich foods may bolster your immune health, which can positively impact your overall well-being during this challenging time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is it important to talk about post natal depression?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Talking about postnatal depression is vital for fostering understanding and support. It helps destigmatize the experience, encourages open conversations, and empowers those affected to seek help. Acknowledging this issue promotes healing and strengthens community connections, ultimately enhancing mental health for new parents."
+      }
+    }
+  ]
+}
