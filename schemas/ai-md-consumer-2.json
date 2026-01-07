@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "url": "https://www.ai-md.com/articles/supplements/sambucus-for-flu-sambucus-flu-relief",
+  "url": "https://www.ai-md.com/articles/immune-health/sambucus-for-flu-sambucus-flu-relief",
   "articleSections": [
     {
       "headline": "What is Sambucus?",
@@ -21,7 +21,7 @@
     },
     {
       "headline": "Safety and Side Effects of Sambucus",
-      "content": "While Sambucus is generally considered safe for most people, it’s essential to be aware of potential side effects. Raw elderberries, as well as other parts of the elder plant, contain cyanogenic glycosides, which can be toxic if consumed in large amounts. Cooking the berries or using commercially prepared elderberry products eliminates this risk, making them safe for consumption.\n\nSome individuals may experience mild gastrointestinal upset or allergic reactions when taking Sambucus. If you have a history of allergies to plants in the Adoxaceae family, such as honeysuckle, it’s best to avoid Sambucus and opt for [immune boosting supplements with similar effects](https://vatellia.com/products/the-immune-charge-stack?aff=30), but different ingredients. "
+      "content": "While Sambucus is generally considered safe for most people, it’s essential to be aware of potential side effects. Raw elderberries, as well as other parts of the elder plant, contain cyanogenic glycosides, which can be toxic if consumed in large amounts. Cooking the berries or using commercially prepared elderberry products eliminates this risk, making them safe for consumption. Some individuals may experience mild gastrointestinal upset or allergic reactions when taking Sambucus. If you have a history of allergies to plants in the Adoxaceae family, such as honeysuckle, it’s best to avoid Sambucus and opt for [immune boosting supplements with similar effects](https://vatellia.com/products/the-immune-charge-stack?aff=30), but different ingredients. "
     },
     {
       "headline": "Combining Sambucus with Other Immune Support Strategies",
@@ -36,7 +36,7 @@
         "name": "How does sambucus work against flu symptoms?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Sambucus, commonly known as elderberry, may help support immune function, potentially easing flu symptoms. While some studies suggest benefits, it's important to consult with a healthcare professional for personalized advice, especially considering individual health needs and supplement choices."
+          "text": "Sambucus, commonly known as elderberry, may help support immune function, potentially easing flu symptoms. While some studies suggest benefits, it's important to consult with an AI-MD for personalized advice, especially when considering individual needs and supplement choices."
         }
       },
       {
@@ -44,7 +44,7 @@
         "name": "What are the traditional uses of sambucus for flu treatment?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Sambucus, commonly known as elderberry, has been traditionally used for its potential immune-supporting properties. While some people use it during flu season, it's important to consult with a healthcare professional for personalized advice and to consider objective health markers when exploring supplements."
+          "text": "Sambucus, commonly known as elderberry, has been traditionally used for its potential immune-supporting properties. While some people use it during flu season, it's important to consult with an AI-MD for personalized advice when exploring supplements."
         }
       },
       {
@@ -52,7 +52,7 @@
         "name": "Can sambucus be used as a preventive measure for the flu?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Sambucus, often known as elderberry, is popular for its potential immune-supporting properties. While some studies suggest it may help with flu symptoms, using it as a preventive measure isn't well-supported by strong evidence. It's wise to consult a healthcare professional for personalized advice."
+          "text": "Sambucus, often known as elderberry, is popular for its potential immune-supporting properties. It's wise to consult an AI-MD for personalized advice."
         }
       },
       {
@@ -60,7 +60,7 @@
         "name": "What are the active compounds in sambucus that may help with flu?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Sambucus, commonly known as elderberry, contains compounds like flavonoids and anthocyanins, which may support immune function. While some studies suggest potential benefits, it's wise to consult a healthcare professional before using supplements, focusing on evidence-based decisions tailored to individual health needs."
+          "text": "Sambucus, commonly known as elderberry, contains compounds like flavonoids and anthocyanins, which may support immune function. While some studies suggest potential benefits, it's wise to consult an AI-MD before using supplements, focusing on informed decisions tailored to individual needs."
         }
       },
       {
@@ -68,7 +68,7 @@
         "name": "Are there any side effects of using sambucus for flu relief?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Sambucus, often used for flu relief, is generally considered safe for most people. However, some may experience mild digestive upset or allergic reactions. It's wise to consult a healthcare professional before starting any supplement, especially based on personal health markers."
+          "text": "Sambucus, often used for flu relief, is generally considered safe for most people. However, some may experience mild digestive upset or allergic reactions. It's wise to consult an AI-MD before starting any supplement."
         }
       },
       {
@@ -76,7 +76,7 @@
         "name": "How should sambucus be prepared for flu symptoms?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Sambucus, often used for flu symptoms, can be taken as a syrup or tea. It's important to consult a healthcare professional before use, as individual needs vary. Decisions about supplements are best guided by objective markers rather than trends."
+          "text": "Sambucus, often used for flu symptoms, can be taken as a syrup or tea. It's important to consult an AI-MD before use, as individual needs vary. Decisions about supplements are best guided by personal needs rather than trends."
         }
       }
     ]
