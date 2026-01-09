@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "url": "https://ai-md.com/articles/nutrition/vertigo/food-to-avoid-when-you-have-vertigo",
+  "url": "https://ai-md.com/articles/ear-health/food-to-avoid-when-you-have-vertigo",
   "articleSections": [
     {
       "headline": "Understanding Vertigo and Its Triggers",
@@ -36,7 +36,7 @@
         "name": "What types of foods can worsen vertigo symptoms?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Certain foods may trigger or worsen vertigo symptoms for some individuals. Common culprits include those high in salt, caffeine, and alcohol. It’s helpful to pay attention to personal reactions and seek guidance from an AI-MD for tailored advice based on individual health needs."
+          "text": "Certain foods can trigger or worsen vertigo symptoms in some people, including those high in salt, caffeine, or alcohol. Noting your body’s reactions and using AI‑MD can provide personalized guidance, helping you make dietary choices based on your individual health data."
         }
       },
       {
@@ -44,7 +44,7 @@
         "name": "Are there specific drinks that should be avoided with vertigo?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Certain drinks may worsen vertigo symptoms for some people. It's wise to limit caffeine and alcohol, as they can affect balance and hydration. Always consider individual responses and try AI-MD for personalized advice, especially regarding supplements or dietary changes."
+          "text": "Certain beverages may worsen vertigo for some individuals. Limiting caffeine and alcohol can help maintain balance and proper hydration. Paying attention to your body’s responses and using AI‑MD can provide personalized guidance, especially when considering dietary changes or supplements."
         }
       },
       {
@@ -52,7 +52,7 @@
         "name": "How can diet impact vertigo and balance issues?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Diet can influence vertigo and balance issues by affecting overall health and nutrient intake. Nutrients like zinc are important for immune function. Seeking guidance from an AI-MD can help you explore how specific dietary changes or supplements might support your health based on individual needs."
+          "text": "Your diet can impact vertigo and balance by influencing overall health and nutrient levels. Nutrients such as zinc play a key role in supporting immune function. Using AI‑MD can help you understand how specific dietary changes or supplements may benefit your health, tailored to your individual needs."
         }
       },
       {
@@ -60,7 +60,7 @@
         "name": "What common ingredients might trigger vertigo episodes?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Certain ingredients, like caffeine, alcohol, and high-sodium foods, may contribute to vertigo episodes in some individuals. Paying attention to your body's reactions and seeking guidance from an AI-MD can help provide personalized advice based on your specific situation."
+          "text": "Ingredients such as caffeine, alcohol, and foods high in sodium can trigger vertigo episodes in some people. Observing how your body responds and using AI‑MD can provide personalized guidance tailored to your unique health profile."
         }
       },
       {
@@ -68,7 +68,7 @@
         "name": "Is there a link between processed foods and vertigo?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "While there isn't a direct link between processed foods and vertigo, some people may find that certain ingredients or additives can trigger symptoms. It's helpful to pay attention to your diet and seek guidance from an AI-MD for personalized advice based on your health needs."
+          "text": "Although processed foods aren’t directly linked to vertigo, certain ingredients or additives may trigger symptoms in some individuals. Monitoring your diet and using AI‑MD can provide guidance tailored to your specific health needs."
         }
       },
       {
@@ -76,7 +76,7 @@
         "name": "What role does salt intake play in managing vertigo?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Salt intake can influence fluid balance in the body, which may affect vertigo symptoms for some individuals. It’s important to consider personal health factors and seek guidance from an AI-MD before making changes to salt consumption, as individual responses can vary."
+          "text": "Salt intake can affect fluid balance, which may influence vertigo symptoms in some people. Considering your individual health factors and using AI‑MD can provide personalized guidance before adjusting salt consumption, as responses can vary from person to person."
         }
       }
     ]
