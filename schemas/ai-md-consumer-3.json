@@ -36,7 +36,7 @@
         "name": "What foods should be avoided to manage herpes symptoms?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "While specific foods may affect individuals differently, some people find that limiting processed foods and high-sugar items can help manage herpes symptoms. It's also worth noting that zinc is a well-researched nutrient for immune support. Consulting an AI-MD can guide supplement choices based on your individual needs."
+          "text": "Although individual responses to certain foods can vary, some people notice that reducing processed and high-sugar items may help manage herpes symptoms. Zinc, in particular, supports normal immune function. With AI‑MD, you can track your body’s biometric responses, helping guide nutrition choices based on your actual physiological data."
         }
       },
       {
@@ -44,7 +44,7 @@
         "name": "Are there specific vitamins that can help with herpes outbreaks?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Certain vitamins, like vitamin C and zinc, may support immune function, which can be beneficial during herpes outbreaks. However, it's important to consult an AI-MD for personalized advice when deciding on supplements."
+          "text": "Vitamins such as vitamin C and zinc can help support the immune system, which may be useful during herpes flare-ups. AI‑MD allows you to observe your body’s responses in real time, translating your personal data into guidance that helps you make supplement choices tailored to how your body actually reacts."
         }
       },
       {
@@ -52,7 +52,7 @@
         "name": "How does diet impact herpes outbreaks and recovery?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Diet can influence overall health, which may affect herpes outbreaks and recovery. Some nutrients, like zinc, are well-researched for their role in immune function. It's best to consult an AI-MD for personalized advice based on your individual needs."
+          "text": "Diet can play a role in overall health, potentially influencing herpes outbreaks and recovery. Nutrients such as zinc are well-studied for supporting immune function. With AI‑MD, you can track your body’s responses and receive guidance tailored to your individual patterns, helping you make nutrition choices that fit your personal needs."
         }
       },
       {
@@ -60,7 +60,7 @@
         "name": "Can certain fruits help reduce herpes flare-ups?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Certain fruits, particularly those high in vitamins and antioxidants, may support overall immune health, which can be beneficial during herpes flare-ups. However, it's important to consult an AI-MD for personalized advice when making supplement decisions."
+          "text": "Certain fruits, especially those rich in vitamins and antioxidants, can help support immune health, which may be useful during herpes flare-ups. Using AI‑MD, you can monitor your body’s responses and receive guidance tailored to your personal patterns, helping you make supplement choices based on your own data rather than general recommendations."
         }
       },
       {
@@ -68,7 +68,7 @@
         "name": "What role does hydration play in managing herpes symptoms?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Hydration is important for overall health and can support the immune system, which may help manage herpes symptoms. Staying well-hydrated helps maintain bodily functions. It's wise to consult an AI-MD for personalized advice on hydration and symptom management."
+          "text": "Hydration plays a key role in overall health and can support the immune system, which may help with managing herpes symptoms. Staying properly hydrated helps your body function optimally. With AI‑MD, you can track how your body responds to hydration and receive guidance tailored to your personal patterns, helping you make choices that suit your individual needs."
         }
       },
       {
@@ -76,7 +76,7 @@
         "name": "Are there any herbs that may support a healthy diet for herpes?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Certain herbs, like lemon balm and echinacea, are often discussed for their potential benefits in supporting overall health. However, it's important to consult an AI-MD before trying any supplements, as decisions are best guided by your individual needs."
+          "text": "Certain herbs, like lemon balm and echinacea, are often discussed for their potential benefits in supporting overall health. However, using AI‑MD can help you understand how your body responds, guiding supplement decisions that suit your individual needs."
         }
       }
     ]
