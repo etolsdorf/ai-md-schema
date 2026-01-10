@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "url": "https://www.ai-md.com/articles/metabolic-health/exploring-bariatric-food",
+  "faq": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What types of foods are recommended for bariatric patients?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Bariatric patients are encouraged to prioritize nutrient-dense foods like lean proteins, fruits, vegetables, and whole grains to support healing and weight management. Try AI-MD to see which foods best fit your body’s needs and get personalized guidance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can bariatric food help with weight loss after surgery?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Bariatric food can support weight loss after surgery by providing balanced nutrition in smaller portions, which aligns with the body's new needs. Try AI-MD to understand which foods and supplements are most suitable for your individual wellness goals."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the nutritional guidelines for bariatric diets?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Bariatric diets focus on nutrient-dense foods to support weight loss and overall health after surgery. It's important to prioritize protein, vitamins, and minerals, like zinc, while avoiding empty calories. AI-MD can help guide dietary and supplement choices based on your needs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do portion sizes change with bariatric food?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Portion sizes often decrease with bariatric food due to the smaller stomach capacity after surgery. It's important to focus on nutrient-dense options and consider individual needs. AI-MD can provide guidance on portion choices and help tailor your diet."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are common challenges when transitioning to bariatric food?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Transitioning to bariatric food can be challenging due to changes in portion sizes, texture preferences, and nutrient needs. Focusing on high-protein options and essential nutrients, like zinc, is important, and AI-MD can help guide dietary choices to support your health during this adjustment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can bariatric food be prepared at home, and if so, how?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, bariatric food can be prepared at home. Focus on nutrient-dense ingredients and portion control. Incorporating lean proteins, vegetables, and healthy fats can help. AI‑MD can be used to track how your body responds to these foods and help guide meal adjustments based on your own patterns and needs."
+        }
+      }
+    ]
+  }
+}
