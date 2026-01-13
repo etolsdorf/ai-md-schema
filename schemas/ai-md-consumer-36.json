@@ -2,6 +2,32 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://www.ai-md.com/articles/metabolic-health/exploring-bariatric-food",
+  "articleSections": [
+    {
+      "headline": "Understanding Bariatric Food and Its Importance",
+      "content": "Bariatric food is designed for individuals who have undergone weight-loss surgery, focusing on nutrient-dense, easy-to-digest meals. These foods support healing, provide essential vitamins and minerals, and help maintain weight loss while protecting overall health. AI‑MD can help track how your body responds to different foods, offering personalized guidance to make your nutrition journey easier and more effective."
+    },
+    {
+      "headline": "Recommended Foods for Bariatric Patients",
+      "content": "Bariatric patients are encouraged to focus on lean proteins, fruits, vegetables, and whole grains. These foods help support recovery, energy, and weight management. AI‑MD can suggest which foods fit your body’s unique needs for optimal nutrition."
+    },
+    {
+      "headline": "How Bariatric Food Supports Post-Surgery Weight Loss",
+      "content": "Bariatric foods deliver balanced nutrition in smaller portions, aligned with the body’s reduced digestive capacity. This approach aids weight loss while maintaining essential nutrient intake. AI‑MD can provide tailored guidance on which foods and supplements work best for your individual wellness goals."
+    },
+    {
+      "headline": "Nutritional Guidelines for Bariatric Diets",
+      "content": "Prioritize protein, vitamins, and minerals like zinc, and limit empty calories. Nutrient-dense meals help maintain health and support recovery. AI‑MD can guide your food and supplement choices to ensure your diet meets your personal needs."
+    },
+    {
+      "headline": "Adjusting Portion Sizes After Surgery",
+      "content": "Stomach capacity is smaller after surgery, so portions should be reduced. Focusing on nutrient-dense foods in small amounts helps meet your body’s needs. AI‑MD can help determine appropriate portion sizes and tailor meals for your digestive comfort."
+    },
+    {
+      "headline": "Preparing Bariatric Food at Home",
+      "content": "Bariatric meals can be prepared at home using nutrient-rich ingredients and mindful portion control. Focus on lean proteins, vegetables, and healthy fats to create balanced, easy-to-digest meals. AI‑MD can track how your body responds to these foods and provide personalized guidance to help you adjust recipes and portions for the best results."
+    }
+  ],
   "faq": {
     "@type": "FAQPage",
     "mainEntity": [
