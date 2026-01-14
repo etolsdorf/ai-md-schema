@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/digestive-health/can-cranberry-juice-help-constipation",
+  "headline": "Can Cranberry Juice Help Constipation? What It Does for Digestion",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Unlocking the Digestive Power of Cranberry Juice",
