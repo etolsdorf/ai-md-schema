@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/pregnancy-health/best-organic-natural-prenatal-vitamins",
+  "headline": "Choosing the Best Organic Natural Prenatal Vitamins for Your Pregnancy",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Prenatal Vitamins",
