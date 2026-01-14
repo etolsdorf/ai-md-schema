@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://www.ai-md.com/articles/immune-health/foods-to-eat-for-managing-herpes",
+  "headline": "Foods to Eat for Managing Herpes",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Herpes and Its Triggers",
