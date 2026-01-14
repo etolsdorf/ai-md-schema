@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://www.ai-md.com/articles/heart-health/does-cayenne-pepper-lower-cholesterol",
+  "headline": "Does Cayenne Pepper Lower Cholesterol? Exploring the Benefits",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Cholesterol and Its Impact on Health",
