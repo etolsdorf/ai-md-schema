@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/health-optimization/stewhat-are-stem-cell-supplements-and-what-do-they-do",
+  "headline": "What Are Stem Cell Supplements and What Do They Do?",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Stem Cell Supplements",
