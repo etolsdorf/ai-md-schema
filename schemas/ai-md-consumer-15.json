@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/overall-health/fish-burps-from-fish-oil",
+  "headline": "Fish Burps from Fish Oil: What Causes Them and How to Fix It",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Fish Oil and Its Benefits",
