@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/metabolic-health/supplements-that-curb-sugar-cravings",
+  "headline": "Supplements That Curb Sugar Cravings: What Actually Helps?",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Sugar Cravings",
