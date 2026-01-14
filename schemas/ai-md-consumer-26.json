@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://www.ai-md.com/articles/athletic-optimization/stem-cell-supplements-for-muscle-soreness",
+  "headline": "Stem Cell Supplements for Muscle Soreness: Do They Really Help?",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Muscle Soreness",
