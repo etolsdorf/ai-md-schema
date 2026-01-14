@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/health-optimization/difference-between-magnesium-glycinate-and-magnesium-citrate",
+  "headline": "What's the Difference between Magnesium Glycinate and Magnesium Citrate?",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "What is Magnesium Glycinate?",
