@@ -6,7 +6,8 @@
   "image": "",
   "author": {
     "@type": "Organization",
-    "name": "AI-MD"
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
   },
   "articleSections": [
     {
