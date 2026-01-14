@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/ear-health/food-to-avoid-when-you-have-vertigo",
+  "headline": "Food to Avoid When You Have Vertigo: What You Need to Know",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Vertigo and Its Triggers",
