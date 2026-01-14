@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/the-optimal-diet/ketogenic-diet-vs-paleo-diet",
+  "headline": "Ketogenic Diet vs Paleo Diet: Which is Right for You?",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding the Ketogenic Diet",
