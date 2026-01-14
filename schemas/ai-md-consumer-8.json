@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/supplements/health-optimization/what-is-the-difference-between-magnesium-and-magnesium-glycinate",
+  "headline": "What is the Difference between Magnesium and Magnesium Glycinate?",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Magnesium",
