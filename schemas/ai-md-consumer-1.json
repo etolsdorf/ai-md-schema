@@ -2,6 +2,12 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://www.ai-md.com/articles/immune-health/vitamins-to-prevent-cold-sores",
+  "headline": "Vitamins to Prevent Cold Sores: What You Need to Know",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD"
+  },
   "articleSections": [
     {
       "headline": "Understanding Cold Sores and Their Triggers",
