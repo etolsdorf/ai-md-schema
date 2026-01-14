@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://www.ai-md.com/articles/mental-health/tdcs-what-you-need-to-know-about-this-brain-stimulation-technique",
+  "headline": "tDCS: What You Need to Know About This Brain Stimulation Technique",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding tDCS: The Basics",
