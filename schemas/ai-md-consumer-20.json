@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/eye-health/flaxseed-oil-for-dry-eyes",
+  "headline": "Flaxseed Oil for Dry Eyes: What You Need to Know",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Dry Eyes",
