@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/metabolic-health/craving-control-tips-for-managing-cravings-effectively",
+  "headline": "Craving Control: Tips for Managing Cravings Effectively",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Sugar Cravings",
