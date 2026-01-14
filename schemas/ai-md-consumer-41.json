@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://www.ai-md.com/articles/overall-health/vitamin-d-25-000-iu-understanding-vitamin-d",
+  "headline": "Vitamin D 25 000 IU: Understanding Vitamin D: Is 25,000 IU Safe and Effective?",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Vitamin D 25,000 IU: Is It Safe and Effective?",
