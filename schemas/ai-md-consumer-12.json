@@ -2,6 +2,13 @@
   "@context": "https://schema.org",
   "@type": "Article",
   "url": "https://ai-md.com/articles/skin-health/benefits-of-evening-primrose-oil-on-face",
+  "headline": "Benefits of Evening Primrose Oil on Face: What You Need to Know",
+  "image": "",
+  "author": {
+    "@type": "Organization",
+    "name": "AI-MD",
+    "url": "https://www.ai-md.com/"
+  },
   "articleSections": [
     {
       "headline": "Understanding Evening Primrose Oil",
