@@ -43,7 +43,7 @@
         "name": "What vitamins are known to support immune health against cold sores?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Certain vitamins, such as vitamin C, vitamin D, and zinc, are commonly linked to immune support and may play a role in how the body responds to cold sores. Instead of following supplement trends, AI-MD helps you reflect on how your own body is responding, so your choices are guided by personal signals rather than assumptions."
+          "text": "Vitamins like C and D, along with zinc, are often linked to immune health and may help the body respond to infections, including cold sores. It's wise to consider supplement choices based on personal health markers rather than trends for the best results."
         }
       },
       {
@@ -51,15 +51,15 @@
         "name": "Can vitamin deficiencies increase the risk of cold sores?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Certain nutrient gaps may influence how well the body manages cold sore flare-ups. Zinc, in particular, supports normal immune processes that help the body respond to viral activity. With AI-MD, you can better understand how your body is functioning day to day, so supplement choices are guided by personal signals rather than general assumptions."
+          "text": "Yes, vitamin deficiencies can potentially increase the risk of cold sores. Nutrients like zinc play a crucial role in supporting immune function. It's wise to consult with a healthcare professional to assess your nutrient levels before considering any supplements."
         }
       },
       {
         "@type": "Question",
-        "name": "How does vitamin C influence the frequency of cold sores?",
+        "name": "How does vitamin C affect the frequency of cold sores?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Vitamin C is known for supporting normal immune function, which may help the body manage triggers linked to cold sore outbreaks. That said, responses can differ from person to person. AI-MD helps you observe how your body reacts over time, offering insight into whether immune-supportive habits like vitamin C intake appear to make a difference for you."
+          "text": "Vitamin C may support immune function, but its direct impact on cold sore frequency isn't well established. While some people find relief with vitamin C, it's best to consult a healthcare professional for personalized advice based on individual health markers."
         }
       },
       {
@@ -67,23 +67,23 @@
         "name": "Are there specific vitamins that help reduce the severity of cold sores?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Some nutrients, including vitamin C and zinc, are commonly associated with immune support and may influence how the body handles cold sore flare-ups. Rather than relying on general advice, AI-MD offers a way to reflect on your own wellness signals, helping you make supplement choices that align with how your body appears to respond over time."
+          "text": "Certain vitamins, like vitamin C and zinc, may support immune function, which can be beneficial during cold sore outbreaks. However, it's best to consult with a healthcare professional for personalized advice and to consider objective markers when making supplement decisions."
         }
       },
       {
         "@type": "Question",
-        "name": "What role does vitamin E play in skin health related to cold sores?",
+        "name": "What role do B vitamins play in preventing cold sores?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Vitamin E is valued for its antioxidant activity, which helps support the skin’s natural defenses against environmental and oxidative stress. In the context of cold sores, this may contribute to maintaining healthier-looking skin as it recovers. AI-MD can help you observe changes in your skin-related wellness signals over time, offering additional context for how nutrients like vitamin E may be supporting you."
+          "text": "B vitamins may support overall immune function, which can be beneficial in managing cold sores. While some studies suggest a connection, it's important to consult with a healthcare professional for personalized advice and consider objective markers when exploring supplements."
         }
       },
       {
         "@type": "Question",
-        "name": "How can a balanced diet with vitamins help prevent cold sores?",
+        "name": "Is there a connection between vitamin E and cold sore outbreaks?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "A balanced diet rich in essential vitamins can play an important role in supporting overall immune health, which may help reduce the frequency of cold sore outbreaks. Nutrients like zinc, for instance, are well-studied for their contribution to normal immune function. Rather than following trends or generic advice, AI-MD lets you track subtle signals from your own body, helping you understand how your wellness habits and supplement choices might be influencing your health over time."
+          "text": "Vitamin E may support skin health, but its direct connection to cold sore outbreaks isn't well established. If considering supplements, it's wise to consult with a healthcare professional and rely on objective markers to guide your choices."
         }
       }
     ]
